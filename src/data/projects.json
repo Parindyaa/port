@@ -1,0 +1,54 @@
+[
+    {
+      "title": " Productivity Prediction system",
+      "imageSrc": "hero/summary out1.png",
+      "description": "Developed a productivity predicion web appplication as for the software development group project. It analyses the user's productivity through machine learning components and display the user's productivity summary and the prdiction ",
+      "skills": ["React", "Flask", "Node", "Python", "Machine-learning"],
+       
+      "source": "https://github.com/Parindyaa"
+    },
+    {
+      "title": " University grading system",
+      "imageSrc": "hero/grd.png",
+      "description": " Developed a program for university students and staff to input credits and receive output regarding whether a student can progress, is in a module trailer, or needs to repeat a module.",
+      "skills": ["Python" ],
+    
+      "source": "https://github.com/Parindyaa"
+    },
+    {
+      "title": "Coders Point Website",
+      "imageSrc": "hero/coders.png",
+      "description": "Developed an educational website that user can learn coding languages by purchasing courses and doing quizzes..",
+      "skills": ["HTML", "CSS", "JavaScript"],
+       
+      "source": "https://github.com/Parindyaa"
+    },
+    {
+      "title": " Foodies fave queue management system",
+      "imageSrc": "hero/food.png",
+      "description": "Developed a queue management system for Foodies Fave food center. user can order the food. if the queue is full customer is added to the waiting list.",
+      "skills": ["Java", "Java fx"  ],
+       
+      "source": "https://github.com/Parindyaa"
+    },
+    {
+      "title": " Guessing game",
+      "imageSrc": "hero/clr.png",
+      "description": "Developed a colour peg guessing game",
+      "skills": ["Python"  ],
+       
+      "source": "https://github.com/Parindyaa"
+    },
+    
+    {
+      "title": "Shopping Console Menu",
+      "imageSrc": "hero/shopping.png",
+      "description": "Developed Console Menu  for system management, including adding/deleting products, listing products, and saving/loading data from a file.Designed Graphical User Interface (GUI)   allowing users to visualize and interact with product lists, add items to a shopping cart with discounts, and manage purchases effectively.",
+      "skills": ["OOP Java"  ],
+       
+      "source": "https://github.com/Parindyaa"
+    }
+    
+    
+  ]
+  
